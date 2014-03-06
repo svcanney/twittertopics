@@ -22,7 +22,7 @@ with
 
 * 'tweetfile_news_publishers' the name of the file which contains the tweets posted by the news publishers
 * 'tweetfile_all' the name of the file which contains all tweets
-* 'dirname' the name of the folder where the output will come
+* 'dirname' the name of the folder in which the output will come
 * 'minPts' the minimum points parameter of the DBSCAN algorithm
 * 'epsilon' the epsilon parameter of the DBSCAN algorithm
 * '#minutes in block' the length of the time intervals of interest, in minutes
