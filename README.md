@@ -8,15 +8,16 @@ For this step, we used this freely available WEKA implementation:
 http://weka.sourceforge.net/doc.stable/weka/classifiers/bayes/BayesNet.html
 
 with parameters
--Q weka.classifiers.bayes.net.search.local.K2
--E weka.classifiers.bayes.net.estimate.SimpleEstimator
+* -Q weka.classifiers.bayes.net.search.local.K2
+* -E weka.classifiers.bayes.net.estimate.SimpleEstimator
+
 
 ### Step 3 - Topic Ranking
 For this step, we used this freely available WEKA implementation: 
 http://weka.sourceforge.net/doc.stable/weka/classifiers/functions/SMO.html
 
 wit parameters
--C 2
+* -C 2
 
 Questions
 -------------
